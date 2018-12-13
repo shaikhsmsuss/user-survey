@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 var firebase = require('firebase');
 var uuid = require('uuid');
 var config = {
-    apiKey: "AIzaSyDpqBgzTXeHORq1eAa0ICf2RHoVFL6W158",
+    apiKey: "Ayour api key",
     authDomain: "uservey-26abb.firebaseapp.com",
     databaseURL: "https://uservey-26abb.firebaseio.com",
     projectId: "uservey-26abb",
